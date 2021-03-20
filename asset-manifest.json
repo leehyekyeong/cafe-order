@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cafe-order/static/css/main.2d8e1ea2.chunk.css",
+    "main.js": "/cafe-order/static/js/main.ba469a3e.chunk.js",
+    "main.js.map": "/cafe-order/static/js/main.ba469a3e.chunk.js.map",
+    "runtime-main.js": "/cafe-order/static/js/runtime-main.bcbb37da.js",
+    "runtime-main.js.map": "/cafe-order/static/js/runtime-main.bcbb37da.js.map",
+    "static/js/2.feae188b.chunk.js": "/cafe-order/static/js/2.feae188b.chunk.js",
+    "static/js/2.feae188b.chunk.js.map": "/cafe-order/static/js/2.feae188b.chunk.js.map",
+    "static/js/3.a2d89940.chunk.js": "/cafe-order/static/js/3.a2d89940.chunk.js",
+    "static/js/3.a2d89940.chunk.js.map": "/cafe-order/static/js/3.a2d89940.chunk.js.map",
+    "index.html": "/cafe-order/index.html",
+    "static/css/main.2d8e1ea2.chunk.css.map": "/cafe-order/static/css/main.2d8e1ea2.chunk.css.map",
+    "static/js/2.feae188b.chunk.js.LICENSE.txt": "/cafe-order/static/js/2.feae188b.chunk.js.LICENSE.txt",
+    "static/media/staff.aec33f0c.svg": "/cafe-order/static/media/staff.aec33f0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcbb37da.js",
+    "static/js/2.feae188b.chunk.js",
+    "static/css/main.2d8e1ea2.chunk.css",
+    "static/js/main.ba469a3e.chunk.js"
+  ]
+}
