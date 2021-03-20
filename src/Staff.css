@@ -1,0 +1,19 @@
+.Staff {
+    height: 100%;
+    margin-right: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.Staff a,
+.Staff img {
+    height: 720px;
+}
+
+.Staff p {
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}

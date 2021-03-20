@@ -1,0 +1,14 @@
+table {
+    background-color: #fff;
+    padding: 12px;
+    margin-bottom: 24px;
+}
+
+table:last-child {
+    margin-bottom: 0;
+}
+
+tr td:first-child {
+    width: 200px;
+    height: 24px;
+}
